@@ -2,7 +2,7 @@
 
 This directory contains writeups from time-bound, official Capture The Flag competitions I have participated in. 
 
-###Event Index
+## Event Index
 
 | Event Name | Date | Focus Areas | Link to Writeups |
 | :--- | :--- | :--- | :--- |
